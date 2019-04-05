@@ -1,3 +1,5 @@
+# Written by Dale Koenig
+
 import spherogram
 from spherogram import links
 import numpy as np
